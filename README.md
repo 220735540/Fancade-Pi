@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='./icon.png' width='128px'> 
+<img src='./icon-64.png' width='128px'> 
 <h3>Fancade</h1>
 Here's why you'll like Fancade:
 
