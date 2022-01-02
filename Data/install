@@ -35,8 +35,8 @@ cd ~/Fancade-Pi/ || error "Unable to cd into ${AppName}!"
 #Install Dependencies
 ./dependencies
 #Install app
-sudo mv /home/pi/Krunker-RaspberryPi/Fancade.desktop $HOME/.local/share/applications/ || error 'Failed to move application' 
-sudo mv /home/pi/Krunker-RaspberryPi/Fancade $HOME/Desktop/ || error 'Failed to move application To Desktop' 
+sudo mv /home/pi/Fancade-Pi/Fancade.desktop $HOME/.local/share/applications/ || error 'Failed to move application' 
+sudo mv /home/pi/Fancade-Pi/Fancade $HOME/Desktop/ || error 'Failed to move application To Desktop' 
 #Inform user that the install has finished
 echo 'Install Finished'
 #Check if finished with errors
