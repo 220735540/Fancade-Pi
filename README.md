@@ -6,7 +6,9 @@ Here's why you'll like Fancade:
 - Go on a quest to unlock worlds with more than 100 mini-games.</br>
 - Visit the arcade to compete with other players in new games every day.</br>
 - Make your own levels and games with drag-n-drop building blocks.</br>
-Any problems with the app just play it <a href='https://play.fancade.com'>here</a>.
+Any problems with the app just play it <a href='https://play.fancade.com'>here</a>.</br>
+For best performance set your resolution to a comfortable high fps setting by going to:</br>
+Menu > Preferences > Screen Configuration > Configure > HDMI1 > Resolution
   
 # Updates:
 - None Yet
