@@ -6,7 +6,7 @@ Exec=chromium-browser --app=https://play.fancade.com --class=Fancade
 Terminal=false
 X-MultipleArgs=false
 Type=Application
-Icon=/home/pi/Fancade-Pi/icon.png
+Icon=/home/pi/Fancade-Pi/icon-64.png
 Categories=GTK;Game;
 MimeType=text/html;text/xml;application/xhtml_xml;
 StartupWMClass=Fancade
