@@ -1,0 +1,4 @@
+Fancade is a simple game with lots of arcade style minigames.
+And a simple game editor with drag 'n' drop blocks to build with.
+
+By Rp400 (220735540)

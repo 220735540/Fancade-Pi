@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Fancade
+Comment=Game Arcade
+Exec=chromium-browser --app=https://play.fancade.com --class=Fancade1
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/pi/Fancade-Pi/icon.png
+Categories=GTK;Game;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=Fancade1
+StartupNotify=true
+X-WebApp-URL=https://play.fancade.com
+X-WebApp-Isolated=true
